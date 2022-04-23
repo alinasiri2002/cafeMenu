@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cafeMenu/static/css/main.fb87de5a.chunk.css",
+    "main.js": "/cafeMenu/static/js/main.7ac2d2f3.chunk.js",
+    "main.js.map": "/cafeMenu/static/js/main.7ac2d2f3.chunk.js.map",
+    "runtime-main.js": "/cafeMenu/static/js/runtime-main.1ff48fdb.js",
+    "runtime-main.js.map": "/cafeMenu/static/js/runtime-main.1ff48fdb.js.map",
+    "static/js/2.7307bf28.chunk.js": "/cafeMenu/static/js/2.7307bf28.chunk.js",
+    "static/js/2.7307bf28.chunk.js.map": "/cafeMenu/static/js/2.7307bf28.chunk.js.map",
+    "index.html": "/cafeMenu/index.html",
+    "static/css/main.fb87de5a.chunk.css.map": "/cafeMenu/static/css/main.fb87de5a.chunk.css.map",
+    "static/js/2.7307bf28.chunk.js.LICENSE.txt": "/cafeMenu/static/js/2.7307bf28.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/cafeMenu/static/media/IRANSansWeb_Bold.e65c9d52.ttf",
+    "static/media/bg.32297bd0.svg": "/cafeMenu/static/media/bg.32297bd0.svg",
+    "static/media/birthday-1.7f0dd006.svg": "/cafeMenu/static/media/birthday-1.7f0dd006.svg",
+    "static/media/birthday-2.3a3abf08.svg": "/cafeMenu/static/media/birthday-2.3a3abf08.svg",
+    "static/media/birthday-3.cfd12d12.svg": "/cafeMenu/static/media/birthday-3.cfd12d12.svg",
+    "static/media/cup.95101e49.svg": "/cafeMenu/static/media/cup.95101e49.svg",
+    "static/media/home2.a4ca7c26.jpg": "/cafeMenu/static/media/home2.a4ca7c26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ff48fdb.js",
+    "static/js/2.7307bf28.chunk.js",
+    "static/css/main.fb87de5a.chunk.css",
+    "static/js/main.7ac2d2f3.chunk.js"
+  ]
+}
